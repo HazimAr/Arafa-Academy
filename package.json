@@ -27,7 +27,7 @@
 		"@emotion/styled": "^11.6.0",
 		"@notionhq/client": "^0.4.13",
 		"axios": "^0.25.0",
-		"canvas-confetti": "^1.4.0",
+		"canvas-confetti": "^1.5.1",
 		"formik": "^2.2.9",
 		"framer-motion": "^6.2.3",
 		"highcharts": "^9.3.3",
